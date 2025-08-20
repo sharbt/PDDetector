@@ -1,7 +1,7 @@
 # PDDetector (experimental)
 Predicts Parkinson’s risk from tabular factors (age, gender, smoking history, family history,
 head injury, pesticide exposure, coffee intake, physical activity, olfactory loss,
-constipation, REM sleep behavior disorder). Trained/evaluated on synthetic data.
+constipation, REM sleep behavior disorder). Trained/evaluated on synthetic data presently.
 
 ## Run
 pip install -r requirements.txt
